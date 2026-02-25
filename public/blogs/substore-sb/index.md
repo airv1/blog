@@ -1,4 +1,4 @@
-### 1. 打开您部署的 sub-store([没部署sub-store的和要mihomo配置的看这篇](https://www.nodeseek.com/post-587420-1))
+### 1. 打开您部署的 sub-store([没部署sub-store的和要mihomo配置的看这篇](https://airv.us/blog/sub-store-mihomo))
 
  打开 Sing-box 面板首页。
 ---
