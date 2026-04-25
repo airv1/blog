@@ -143,7 +143,9 @@ https://raw.githubusercontent.com/Keywos/rule/main/rename.js
 项目地址（JavaScript 覆写）：
 
 ```text
-https://raw.githubusercontent.com/powerfullz/override-rules/refs/heads/main/convert.js
+
+https://gcore.jsdelivr.net/gh/powerfullz/override-rules@1/convert.min.js
+
 ```
 
 ---
